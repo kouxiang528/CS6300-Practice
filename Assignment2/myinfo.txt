@@ -1,2 +1,3 @@
 Xiang Kou
 xkou7@gatech.edu
+Private repository, only for posting at: https://github.com/kouxiang528/CS6300-Practice.git
